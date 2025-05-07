@@ -72,7 +72,7 @@ const App: React.FC = () => {
   return (
     <Container maxWidth="sm" sx={{ mt: 4 }}>
       <Typography variant="h5" gutterBottom>
-        My ToDo List
+        ToDo List
       </Typography>
 
       <form
